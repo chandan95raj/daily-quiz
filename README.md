@@ -317,9 +317,7 @@ It helps a lot ❤️
 
 <div align="center">
 
-## Made with ❤️ by Codes with Chandan
-
-🌐 Website: https://codeswithchandan.com
+## Made with ❤️ by Chandan Raj
 
 🚀 Live Demo:
 
