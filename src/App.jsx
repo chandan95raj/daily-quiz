@@ -1,8 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import "./App.css";
 
-const API_URL =
-  "https://script.google.com/macros/s/AKfycbxdLstnf6nLKJ5upETacm36DrOm-Jo_IAidww9fZ_q-XqOr6esIhDKc27ZklhzM0Ojb/exec";
+const API_URL = import.meta.env.VITE_API_URL;
 
 const getDateString = (minusDays = 0) => {
   const d = new Date();
